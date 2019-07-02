@@ -23,7 +23,7 @@
 
   &__cursor {
     display: inline-block;
-    width: 10px;
+    width: 4px;
     height: 1rem;
     background: #fe5186;
     margin-left: 5px;
